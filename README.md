@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/ghanshyamjadhav](https://www.datascienceportfol.io/ghanshyamjadhav)
 
-- 💬 Ask me about **Python,MySQL,Pawer bi,Excel,Machine learning**
+- 💬 Ask me about **Python,MySQL,Power bi,Excel,Machine learning**
 
 - 📫 How to reach me **ghanshyamjadhav3825@gmail.com**
 
