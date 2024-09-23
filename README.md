@@ -17,6 +17,7 @@ I am a proactive Data Analyst with a passion for extracting insights from comple
 - **Web Scraping**: BeautifulSoup, Selenium
 - **Version Control**: Git, GitHub
 
+
 ---
 <img align="right" alt="coding" width="450" src="https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif">
 
