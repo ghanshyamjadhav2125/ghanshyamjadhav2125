@@ -8,7 +8,7 @@ I am a proactive Data Analyst with a passion for extracting insights from comple
 
 ---
 
-<img align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif">
+<img align="right" alt="coding" width="450" src="https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghanshyamjadhav2125&label=Profile%20views&color=0e75b6&style=flat" alt="ghanshyamjadhav2125" /> </p>
 
