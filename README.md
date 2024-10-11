@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=FF5733&background=EAF2F800&center=true&vCenter=true&lines=Aspiring+Data+Analyst;Upskilling+at+Masai+School" alt="Typing SVG">
+</p>
+
 ![logo](https://indoanalytica.com/static/images/bannerr.gif)
 <h1 align="center">Hi 👋, I'm Ghanshyam Jadhav</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
