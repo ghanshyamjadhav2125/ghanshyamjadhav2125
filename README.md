@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=0000FF&background=EAF2F800&center=true&vCenter=true&lines=Data+Analyst;Upskilling+at+Uprio" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=0000FF&background=EAF2F800&center=true&vCenter=true&lines=Proactive+Data+Analyst;Upskilling+at+Uprio" alt="Typing SVG">
 </p>
 
 ![logo](https://indoanalytica.com/static/images/bannerr.gif)
